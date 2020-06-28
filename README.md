@@ -91,13 +91,13 @@ Durante a construção do projeto foram usadas várias técnologias:
 ## :iphone: Mobile
 
 <h1 align="center">
-    <img src=".github/mobile1.jpeg">
+    <img src=".github/mobile1.png">
 </h1>
 
 <h1 align="center">
-    <img src=".github/mobile2.jpeg">
+    <img src=".github/mobile2.png">
 </h1>
 
 <h1 align="center">
-    <img src=".github/mobile3.jpeg">
+    <img src=".github/mobile3.png">
 </h1>
